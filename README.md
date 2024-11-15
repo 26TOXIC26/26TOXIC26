@@ -14,7 +14,7 @@
   
 *Low-level Programming Enthusiast | 42 Student*
 
-[![amousaid's 42 stats](https://badge.mediaplus.ma/greenbinary/amousaid)](https://github.com/oakoudad/badge42)
+[![amousaid's 42 stats](https://badge.mediaplus.ma/black/amousaid)](https://github.com/oakoudad/badge42)
 
 </div>
 
