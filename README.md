@@ -14,9 +14,7 @@
   
 *Low-level Programming Enthusiast | 42 Student*
 
-[![42 School](https://img.shields.io/badge/42-1337-000000?style=for-the-badge&logo=42&logoColor=white)](https://1337.ma/)
 [![amousaid's 42 stats](https://badge.mediaplus.ma/greenbinary/amousaid)](https://github.com/oakoudad/badge42)
-[![Profile Views](https://komarev.com/ghpvc/?username=26TOXIC26&style=for-the-badge&color=0e75b6)](https://github.com/26TOXIC26)
 
 </div>
 
