@@ -1,17 +1,84 @@
-<h1 align="center">Hi 👋, I'm Abdelilah Musaid</h1>
-<h3 align="center">A passionate frontend and software developer from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=26toxic26" alt="26toxic26" /></a> </p>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdelilah mousaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelilah mousaid" height="30" width="40" /></a>
-<a href="https://instagram.com/abdelilah_mousaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelilah_mousaid" height="30" width="40" /></a>
-</p>
+```ascii
+██╗  ██╗███████╗██╗     ██╗      ██████╗      ██╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ███║
+███████║█████╗  ██║     ██║     ██║   ██║    ╚██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║     ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝     ██║
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚═╝
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Low-level+Programming+Enthusiast;42+Student;System+Architecture+Passionate)](https://git.io/typing-svg)
+  
+*Low-level Programming Enthusiast | 42 Student*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=26toxic26&show_icons=true&locale=en&layout=compact" alt="26toxic26" /></p>
+[![42 School](https://img.shields.io/badge/42-1337-000000?style=for-the-badge&logo=42&logoColor=white)](https://1337.ma/)
+[![Profile Views](https://komarev.com/ghpvc/?username=26TOXIC26&style=for-the-badge&color=0e75b6)](https://github.com/26TOXIC26)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=26toxic26&show_icons=true&locale=en" alt="26toxic26" /></p>
+</div>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const abdelilah = {
+    education: "42",
+    passions: [
+        "Low-level Programming",
+        "System Architecture",
+        "Problem Solving",
+        "Web Development"
+    ],
+    currentlyLearning: ["Advanced C Concepts", "Unix Systems"]
+};
+```
+
+## 🛠️ Tech Stack
+
+### Low-level & Systems Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Development Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abdelilah.mousaid@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abdelilah-Mousaid/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/26TOXIC26)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdelilah_mousaid/)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26TOXIC26&layout=compact&theme=dark)](https://github.com/26TOXIC26)
+
+</div>
+
+---
+
+<div align="center">
+  
+*"C is quirky, flawed, and an enormous success."*  
+— Dennis Ritchie
+
+</div>
