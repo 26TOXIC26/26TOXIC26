@@ -2,12 +2,12 @@
 <div align="center">
 
 ```ascii
-██╗  ██╗███████╗██╗     ██╗      ██████╗      ██╗
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ███║
-███████║█████╗  ██║     ██║     ██║   ██║    ╚██║
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║     ██║
-██║  ██║███████╗███████╗███████╗╚██████╔╝     ██║
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚═╝
+██╗  ██╗███████╗██╗     ██╗      ██████╗   
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗  
+███████║█████╗  ██║     ██║     ██║   ██║  
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║  
+██║  ██║███████╗███████╗███████╗╚██████╔╝  
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝   
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Low-level+Programming+Enthusiast;42+Student;System+Architecture+Passionate)](https://git.io/typing-svg)
@@ -59,7 +59,7 @@ const abdelilah = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abdelilah.mousaid@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abdelilah-Mousaid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelilah-mousaid-a1a7b0247/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/26TOXIC26)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdelilah_mousaid/)
 
