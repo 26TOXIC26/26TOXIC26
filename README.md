@@ -78,6 +78,6 @@ const abdelilah = {
 <div align="center">
   
 *"C is quirky, flawed, and an enormous success."*  
-— Dennis Ritchie
+             — Dennis Ritchie —
 
 </div>
