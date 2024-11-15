@@ -15,6 +15,7 @@
 *Low-level Programming Enthusiast | 42 Student*
 
 [![42 School](https://img.shields.io/badge/42-1337-000000?style=for-the-badge&logo=42&logoColor=white)](https://1337.ma/)
+[![amousaid's 42 stats](https://badge.mediaplus.ma/greenbinary/amousaid)](https://github.com/oakoudad/badge42)
 [![Profile Views](https://komarev.com/ghpvc/?username=26TOXIC26&style=for-the-badge&color=0e75b6)](https://github.com/26TOXIC26)
 
 </div>
@@ -59,8 +60,8 @@ const abdelilah = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bdmousaid@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelilah-mousaid-a1a7b0247/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abdelilah.mousaid@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abdelilah-Mousaid/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/26TOXIC26)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdelilah_mousaid/)
 
@@ -79,6 +80,6 @@ const abdelilah = {
 <div align="center">
   
 *"C is quirky, flawed, and an enormous success."*  
-— Dennis Ritchie —
+— Dennis Ritchie
 
 </div>
