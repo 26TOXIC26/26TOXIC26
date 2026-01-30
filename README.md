@@ -2,17 +2,19 @@
 <div align="center">
 
 ```ascii
-                                     ██╗  ██╗███████╗██╗     ██╗      ██████╗   
-                                     ██║  ██║██╔════╝██║     ██║     ██╔═══██╗  
-                                     ███████║█████╗  ██║     ██║     ██║   ██║  
-                                     ██╔══██║██╔══╝  ██║     ██║     ██║   ██║  
-                                     ██║  ██║███████╗███████╗███████╗╚██████╔╝  
-                                     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝   
+██╗  ██╗███████╗██╗     ██╗      ██████╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████║█████╗  ██║     ██║     ██║   ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Low-level+Programming+Enthusiast;42+Student;System+Architecture+Passionate)](https://git.io/typing-svg)
-  
+
+<strong>
 *Low-level Programming Enthusiast | 42 Student*
+<a href="https://abdelilah-mousaid.vercel.app/"><br>Portfolio</a>
 
 [![amousaid's 42 stats](https://badge.mediaplus.ma/black/amousaid)](https://github.com/oakoudad/badge42)
 
@@ -69,7 +71,7 @@ const abdelilah = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26TOXIC26&layout=compact&theme=dark)](https://github.com/26TOXIC26)
 
 </div>
@@ -77,8 +79,9 @@ const abdelilah = {
 ---
 
 <div align="center">
-  
-*"C is quirky, flawed, and an enormous success."*  
+
+*"C is quirky, flawed, and an enormous success."*
              — Dennis Ritchie —
 
 </div>
+</strong>
